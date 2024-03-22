@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-<h1 align="center">Hi 👋, I'm BagasCaturS<p>I'm A Student aiming to specialize in Web Development!</p></h1>
+<p align="center"><h1>Hi 👋, I'm BagasCaturS</h1>I'm A Student aiming to specialize in Web Development!<p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
