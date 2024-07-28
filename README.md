@@ -17,7 +17,7 @@
 <h2 align="left">Languages and Tools:</h2>
     <img src="https://skillicons.dev/icons?i=github,python,javascript,figma,git,expressjs-light,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=tailwindcss,mysql,html,css,vscode,visualstudio,nuxtjs,vuejs" /><br>
-    <img src="https://skillicons.dev/icons?i=expressjs-light" />
+    <img src="[https://skillicons.dev/icons?i=expressjs-light](https://api.iconify.design/skill-icons:expressjs-light.svg?color=%23888888)" />
 </div>
 
 
