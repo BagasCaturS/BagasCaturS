@@ -41,4 +41,3 @@
  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagasCaturS&layout=compact&count_private=true&theme=react&border_radius=10" />
 </div>
   <br/><br/><br/>
-- ⚡ Fun fact: Besides programming or web devloping, i like to listen and play music. Some instruments that i can play are the piano and drum. I also like to do photography
