@@ -15,7 +15,7 @@
   </a>
     <hr/>
 <h2 align="left">Languages and Tools:</h2>
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,figma,git,expressjs-dark,nodejs,reactjs,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,figma,git,expressjs,nodejs,react-js,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=tailwindcss,mysql,html,css,vscode,visualstudio,nuxtjs,vuejs" /><br>
 </div>
 
